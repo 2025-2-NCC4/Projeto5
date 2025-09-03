@@ -16,7 +16,8 @@ Vide tutoriais do PI.
 
 ## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Carlos Roberto Santos Latorre</a>, <a href="https://www.linkedin.com/in/victorbarq/">Felipe Lin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Felipe Wakasa Klabunde</a>, <a href="https://www.linkedin.com/in/victorbarq/">Stephany Aliyah Guimarães Eurípedes de Paula</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes</a>, <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/mauricio-lopes-da-cunha-5630492a/">Mauricio Lopes Da Cunha</a>, <a href="https://www.linkedin.com/in/professorrodnil/">Rodnil da Silva Moreira Lisboa</a>.
+
 
 ## Descrição
 
