@@ -14,7 +14,7 @@ Vide tutoriais do PI.
 
 ## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Carlos Roberto Santos Latorre</a>, <a href="https://www.linkedin.com/in/victorbarq/">Felipe Lin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Felipe Wakasa Klabunde</a>, <a href="https://www.linkedin.com/in/victorbarq/">Stephany Aliyah Guimarães Eurípedes de Paula</a>
+## Integrantes: Carlos Roberto Santos Latorre</a>, Felipe Lin</a>,Felipe Wakasa Klabunde, Stephany Aliyah Guimarães Eurípedes de Paula
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes</a>, <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/mauricio-lopes-da-cunha-5630492a/">Mauricio Lopes Da Cunha</a>, <a href="https://www.linkedin.com/in/professorrodnil/">Rodnil da Silva Moreira Lisboa</a>.
 
