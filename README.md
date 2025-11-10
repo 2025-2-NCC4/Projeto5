@@ -66,43 +66,59 @@ Há também 4 pastas que seguem da seguinte forma:
 <b> 🌐 src</b>: Contém todo o código-fonte do projeto (frontend e backend), organizado por entregas.
 
 ## 🛠 Instalação
+Este projeto foi desenvolvido com **Streamlit** (um framework Python). Para executá-lo em sua máquina local, você precisará ter o **Python** instalado.
 
-<b>Android:</b>
+As instruções abaixo funcionam para **Windows, macOS e Linux**.
 
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
+### 1\. Pré-requisitos
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
+  * **Python 3.8** ou superior.
+  * **pip** (geralmente já vem com o Python).
 
-<b>Windows:</b>
+### 2\. Passos para Execução Local
 
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+1.  **Clone o Repositório**
+    Abra seu terminal ou prompt de comando e use o `git` para clonar este projeto:
+    *(Se preferir, você pode baixar o .zip e extrair os arquivos manualmente)*
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
+    ```sh
+    git clone https://github.com/SEU-USUARIO/NOME-DO-PROJETO.git
+    cd NOME-DO-PROJETO
+    ```
 
-<b>HTML:</b>
+2.  **(Opcional) Crie um Ambiente Virtual**
+    Isso é uma boa prática para isolar as dependências do projeto:
 
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
+    ```sh
+    # Windows
+    python -m venv venv
+    .\venv\Scripts\activate
 
-## 💻 Configuração para Desenvolvimento
+    # macOS / Linux
+    python3 -m venv venv
+    source venv/bin/activate
+    ```
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
+3.  **Instale as Dependências**
+    Instale o Streamlit e todas as outras bibliotecas necessárias:
 
-Para abrir este projeto você necessita das seguintes ferramentas:
+    ```sh
+    pip install -r requirements.txt
+    ```
 
--<a href="https://godotengine.org/download">GODOT</a>
+4.  **Execute o Aplicativo**
+    Use o comando do Streamlit para iniciar o servidor (substitua `app.py` pelo nome do seu arquivo principal .py):
 
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
+    ```sh
+    streamlit run app.py
+    ```
+
+5.  **Acesse no Navegador**
+    O aplicativo será aberto automaticamente no seu navegador padrão.
+
+-----
+
+
 
 ## 📋 Licença/License
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
