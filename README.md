@@ -59,7 +59,7 @@ Há também 4 pastas que seguem da seguinte forma:
 
 <b>📷 imagens</b>: Diretório para armazenar imagens do sistema, como logos, capturas de tela e elementos visuais utilizados na documentação.
 
-<b>🧑‍💻 src</b>: Contém todo o código-fonte do projeto (frontend e backend), organizado por entregas.
+<b> 🌐 src</b>: Contém todo o código-fonte do projeto (frontend e backend), organizado por entregas.
 
 ## 🛠 Instalação
 
