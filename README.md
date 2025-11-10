@@ -31,12 +31,16 @@ O sistema reúne dados de transações, lojas, usuários, economia e utilizaçã
 ## 🛠 Estrutura de pastas
 ```
 ├── documentos/
-│   ├── Entrega1/
+│   ├── Entrega 1/
 │   │   ├── Análise Inferencial de Dados/
 │   │   ├── Engenharia de Software e Arquitetura de Sistemas/
-│   │   ├── Projeto Interdisciplinar Ciência de Dados/
+│   │   ├── Projeto Interdisciplinar - Ciência de Dados/
 │   │   └── Contabilidade e Finanças/
-│   ├── Entrega2/
+│   ├── Entrega 2/
+│   │   ├── Análise Inferencial de Dados/
+│   │   ├── Engenharia de Software e Arquitetura de Sistemas/
+│   │   ├── Projeto Interdisciplinar - Ciência de Dados/
+│   │   └── Contabilidade e Finanças/
 │   ├── Documentação.docx/
 ├── imagens/
 ├── src/
