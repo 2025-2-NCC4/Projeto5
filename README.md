@@ -23,10 +23,7 @@
   
 </p>
 O CupomGO é um dashboard interativo desenvolvido em Python + Streamlit que analisa informações relacionadas ao uso de cupons em estabelecimentos parceiros.
-O sistema reúne dados de transações, lojas, usuários, economia e utilização de cupons, permitindo gerar análises. O projeto apoia gestores nas áreas CEO, CTO e CFO, oferecendo KPIs específicos para cada perfil.
-<br>
-
-
+O sistema reúne dados de transações, lojas, usuários, economia e utilização de cupons, permitindo gerar análises. Desse modo, projeto apoia gestores nas áreas de CEO, CTO e CFO, oferecendo KPIs específicos para cada perfil.  Portanto, seu foco principal é analisar a eficácia das campanhas de cupons, incluindo o impacto direto de estratégias de gamificação na retenção de clientes.
 
 ## 🛠 Estrutura de pastas
 ```
