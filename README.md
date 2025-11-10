@@ -114,7 +114,34 @@ Coloque código do prompt de comnando se for necessário
 ```
 
 ## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+
+  <a property="dct:title" rel="cc:attributionURL" href="https://github.com/2025-2-NCC4/Projeto5">
+    CupomGO – Painel Econômico Interativo
+  </a>
+  by
+  <a href="https://github.com/2025-2-NCC4/Projeto5" rel="cc:attributionURL dct:creator" property="cc:attributionName">
+    Carlos Roberto Santos Latorre
+  </a>,
+  <a href="https://github.com/2025-2-NCC4/Projeto5" rel="cc:attributionURL dct:creator" property="cc:attributionName">
+    Felipe Lin
+  </a>,
+  <a href="https://github.com/2025-2-NCC4/Projeto5" rel="cc:attributionURL dct:creator" property="cc:attributionName">
+    Felipe Wakasa Klabunde
+  </a>,
+  <a href="https://github.com/2025-2-NCC4/Projeto5" rel="cc:attributionURL dct:creator" property="cc:attributionName">
+    Stephany Aliyah Guimarães Eurípedes de Paula
+  </a> is licensed under
+<a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1"
+     target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> CC BY 4.0
+    <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+         src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="">
+    <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+         src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="">
+  </a>
+
+</p>
+
 
 ## 🎓 Referências
 
