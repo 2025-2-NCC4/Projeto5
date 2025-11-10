@@ -22,15 +22,26 @@ Vide tutoriais do PI.
 <p align="center">
 <img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+
+
+
+  
 </p>
+O CupomGO é um dashboard interativo desenvolvido em Python + Streamlit que analisa informações relacionadas ao uso de cupons em estabelecimentos parceiros.
+O sistema reúne dados de transações, lojas, usuários, economia e utilização de cupons, permitindo gerar análises como:
+
+- Conversão e adesão mensal
+- Ranking de lojas
+- Receita e lucro
+- Indicadores econômicos (IPCA, SELIC, Inadimplência)
+- Mapa interativo de usos
+- Gamificação (níveis bronze, prata e ouro)
+   Login / Simulação de uso de cupons
+
+O projeto apoia gestores nas áreas CEO, CTO e CFO, oferecendo KPIs específicos para cada perfil.
+<br>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
 
 ## 🛠 Estrutura de pastas
 
