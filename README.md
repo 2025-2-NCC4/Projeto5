@@ -29,21 +29,25 @@ O sistema reúne dados de transações, lojas, usuários, economia e utilizaçã
 
 
 ## 🛠 Estrutura de pastas
-
--Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
+```
+├── documentos/
+│   ├── Entrega1/
+│   │   ├── Análise Inferencial de Dados/
+│   │   ├── Engenharia de Software e Arquitetura de Sistemas/
+│   │   ├── Projeto Interdisciplinar Ciência de Dados/
+│   │   └── Contabilidade e Finanças/
+│   ├── Entrega2/
+│   ├── Documentação.docx/
+├── imagens/
+├── src/
+│   ├── Entrega 1/
+│   │   ├── frontend/
+│   │   └── backend/
+│   ├── Entrega 2/
+│   │   ├── frontend/
+│   │   └── backend/
+└── readme.md<br>
+```
 
 A pasta raiz contem dois arquivos que devem ser alterados:
 
@@ -51,13 +55,11 @@ A pasta raiz contem dois arquivos que devem ser alterados:
 
 Há também 4 pastas que seguem da seguinte forma:
 
-<b>documentos</b>: Toda a documentação estará nesta pasta.
+<b>🗂️ documentos</b>: Pasta que reúne toda a documentação do projeto, incluindo arquivos das entregas, relatórios e materiais de apoio.
 
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
+<b>📷 imagens</b>: Diretório para armazenar imagens do sistema, como logos, capturas de tela e elementos visuais utilizados na documentação.
 
-<b>imagens</b>: Imagens do sistema
-
-<b>src</b>: Pasta que contém o código fonte.
+<b>🧑‍💻 src</b>: Contém todo o código-fonte do projeto (frontend e backend), organizado por entregas.
 
 ## 🛠 Instalação
 
